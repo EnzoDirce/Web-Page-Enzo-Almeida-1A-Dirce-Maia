@@ -1,0 +1,24 @@
+body {
+    background: #CCCCCC
+}
+
+.imagem-principal {
+	width: 700px;
+	margin: auto;
+
+}
+
+
+
+img {
+	width: 700px;
+
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
